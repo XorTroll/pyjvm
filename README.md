@@ -3,6 +3,8 @@
 _python-jvm-interpreter_ is an implementation of the Java Virtual Machine in
 Python. It works by parsing and interpreting the Java Class files.
 
+## **IMPORTANT!** this project is no longer continued.
+
 ## Dependencies
 In order to compile Java code to Java Bytecode, you will need to have
 `javac`. If you just want to run bytecode that is already compiled, all you need
